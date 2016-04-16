@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fl
+{
+	float:left !important;
+}
+
+.fr
+{
+	float:right !important;
+}
+
+.full_width
+{
+	width:100%;
+}
+
+.navbar
+{
+	list-style:none;
+}
+.navbar li
+{
+	display:inline;
+}
+
+.navbar li a
+{
+	padding:5px;
+}
+
+.frm_div ,.frm_div p
+{
+	float:left;
+	width:100%;
+	
+}
+.frm_div p
+{
+	margin:5px;
+}
+
+.frm_div p label
+{
+	float:left;
+	width:100px;
+}
+.frm_div p input
+{
+	float:left;
+}
+
+.balance
+{
+	 margin: 16px 10px;
+}
