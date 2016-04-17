@@ -1,9 +1,9 @@
 # csrf-prevention-core-php
--------
+===
 This project demonstrate how CSRF attack occur as well as prevention using secret validation token.
 
 ## Getting started
---------------------
+---
 1. Copy cheat and csrf_demo to www
 2. Import database to MySql located at csrf_demo/db/bank.sql
 
