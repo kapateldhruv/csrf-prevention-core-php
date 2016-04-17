@@ -1,6 +1,5 @@
 # csrf-prevention-core-php
-==========================
-
+-------
 This project demonstrate how CSRF attack occur as well as prevention using secret validation token.
 
 ## Getting started
